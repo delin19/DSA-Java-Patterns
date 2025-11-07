@@ -1,6 +1,7 @@
 package slidingwindow_twopointerr;
 import java.util.*;
 import java.util.HashMap;
+//Using hash Map 
 
 public class FruitsInsideBasket {
 	static int fruit(int[] nums,int k) {
